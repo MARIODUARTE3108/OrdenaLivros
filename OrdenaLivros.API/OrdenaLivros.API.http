@@ -1,0 +1,6 @@
+@OrdenaLivros.API_HostAddress = http://localhost:5095
+
+GET {{OrdenaLivros.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
